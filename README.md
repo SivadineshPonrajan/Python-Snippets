@@ -6,7 +6,7 @@ ColorMe - Python based Game
 
 Dice - Terminal based program
 
-Gnews - Terminal Google news
+G-News - Terminal Google news
 
 MyPad - Notepad
 
@@ -14,10 +14,10 @@ Snake Xenia - Snake Game
 
 Timer - Terminal program
 
-tts - Text-To-Speech
+TTS - Text-To-Speech
 
 Virtual-X - Digital Assistant
 
-webcam - Webcam Stream
+Webcam - Webcam Stream
 
 Wiki - Top 10 Wikipedia
