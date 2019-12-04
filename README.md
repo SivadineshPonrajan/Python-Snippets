@@ -1,23 +1,23 @@
 # Python_Applications
 
-Dictionary - Both terminal and GUI program
+### Dictionary - Both terminal and GUI program
 
-ColorMe - Python based Game
+### ColorMe - Python based Game
 
-Dice - Terminal based program
+### Dice - Terminal based program
 
-G-News - Terminal Google news
+### G-News - Terminal Google news
 
-MyPad - Notepad
+### MyPad - Notepad
 
-Snake Xenia - Snake Game
+### Snake Xenia - Snake Game
 
-Timer - Terminal program
+### Timer - Terminal program
 
-TTS - Text-To-Speech
+### TTS - Text-To-Speech
 
-Virtual-X - Digital Assistant
+### Virtual-X - Digital Assistant
 
-Webcam - Webcam Stream
+### Webcam - Webcam Stream
 
-Wiki - Top 10 Wikipedia
+### Wiki - Top 10 Wikipedia
