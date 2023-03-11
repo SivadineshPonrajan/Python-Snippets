@@ -6,6 +6,8 @@
 
 ### Dice - Terminal based program
 
+### Firebase - GET / PUT data in Firebase
+
 ### G-News - Terminal Google news
 
 ### MyPad - Notepad
